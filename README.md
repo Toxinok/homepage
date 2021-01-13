@@ -1,4 +1,4 @@
-# homepage
+﻿# homepage
 My very own personal website. Basically this is just a résumé.
 
 Projects:
@@ -7,3 +7,5 @@ Projects:
 
 Website link:
 https://toxinok.github.io/homepage/
+
+🧙Hocus-pocus!
