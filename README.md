@@ -7,5 +7,3 @@ Projects:
 
 Website link:
 https://toxinok.github.io/homepage/
-
-🧙Hocus-pocus!
